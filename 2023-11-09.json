@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Saunders",
+  "age": 41,
+  "address": {
+    "street": "Iwane Center",
+    "city": "Dikavu",
+    "state": "AK",
+    "zip": "04022"
+  },
+  "contact": {
+    "phone": "(537) 490-2469",
+    "servicePhone": "800376974"
+  },
+  "birthday": "1989-10-31T17:09:11.558Z",
+  "ip": "200.140.44.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Buhaek tupildaz wub ijeikino nazina hofdejpov bi no fa ekuguro iglazovo cadmargac kicci. Sa go wa cu reaf vitla ju wiwi resi ne nujjizkod vogeneri teefa sugewanep. Fungekcud hal ibucu jew cosusbu cad tugop rulikes awuliwe japomtin pim vujjouwu taweah valig ra hu ukuule. Ken vinmantu sec dam sunakup awsuc va le raecilu kan ep aripe goz juul nuwicav ah jurjambu.",
+    "bio": "Sinus jutca deh asugatow toahiso olefug deto gowpafsef gucimetog zekeb erabunti acibef gan le. Zi awgu waezi vazjojbah si wegojde sif hahecevu watret sakdobmam ruwedvu kor. Tiazuhu gaate va fiosfow kawmecno ri aro ujovanva id ok asvehda fehcas ew cem. Azocepiv bike ga arokir lago loksepvoc sajakwa edahajmam cal vuge genih gudru zatojfub. Sulazjab per luvig sohec ige muup iwwocas vekibalo femwicag iguici vivva lu manzaram joolluj jeg ag. Bohosej erka awepaze upi zodwi kabmucuf ipvafa faebevo mi afhu ud pakjek mengu ecumu batedjof ik ejokut pijgu."
+  },
+  "apiKey": "560d632ece9814f0094462c7f81c97a277af16561509067add460886c6e68ae6",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
