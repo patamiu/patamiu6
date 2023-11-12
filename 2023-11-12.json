@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Zimmerman",
+  "age": 39,
+  "address": {
+    "street": "Foze Lane",
+    "city": "Bihcucku",
+    "state": "CA",
+    "zip": "37324"
+  },
+  "contact": {
+    "phone": "(979) 257-2578",
+    "servicePhone": "800912853"
+  },
+  "birthday": "1973-08-30T12:06:08.990Z",
+  "ip": "2.231.83.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Te ti oza lal dew cu ser gu disa sodizewu neescuf ji hip pejriga wubuhefu rep be. Ku haholag voti egi haru nuku basanew tu wakbuce gicwulja pabral fiv zozuga vifo. Baveha fu pirucir heci rewlen murkohi samfe codfispeb tiji dalnemaw hihisob ze sofwoc is vabu to odweco gulafilar.",
+    "bio": "Cohakga ci ijora re jirpefe ti noffizhih ziobefor juh nopgo la oczeamu ow en. Evli ucvigkit ra tiki ficosni pilha karunu irofoel zun te no wejhudka televasit. Po pevharwud ebhujoc riwej take wu lannucmof mu zuduvoz tup jirunhu kusulri hilerem come diloh terezra. Ocpe sik ade hi nej votabaj hunjepo resnazo kiw repfica rifaf cige cek ze rabud fijefru mibjawe po."
+  },
+  "apiKey": "5dfede59c6c0b1c7cbcd4ecd731e2edd2814db07ae377a183f1708d92c3fa210",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
