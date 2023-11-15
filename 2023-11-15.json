@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Barker",
+  "age": 41,
+  "address": {
+    "street": "Suzwen Manor",
+    "city": "Samceka",
+    "state": "WA",
+    "zip": "86071"
+  },
+  "contact": {
+    "phone": "(709) 676-2868",
+    "servicePhone": "800222763"
+  },
+  "birthday": "1962-09-29T18:27:36.497Z",
+  "ip": "228.85.118.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Wab zarazov atahi etolerluj zulnaizi zedahos tujuj gatzu nikrig utekimok buzwikek awoob tevtafoko ire wingi. Mize vas ruzne wafuc jegdibli izeahedid meklenu itajabaf buw cehlesi wetzajdi bikhunwor tew. Vi vawuf porjab ufu goutizo kij obe vajnaog maudo joh focemi mivke lili cumovfu nu.",
+    "bio": "Ivisa ziwfosuda ebo na ugotof harmeh kebotos ap losol aco movir pof pur wiju suvcewel jim fatilzi. Viha pimkaza di nimibu nipzo ejmow vorag li nucbavim tihipi umduco puecru. Riwozka pi iwu erihuc osudeg uz nezhimih epa ce eho zewacur on haj uzagup wepfaaj aspub vit lude. Kawiru citzotvu ut ganiw apmowit ve lozda labep vofove apefajrur hihesozo mil virigas. Nadjo ujuvi fizoune ri rugse wafco diktuksi elmofo otecagpu aze sopiga viri hu. Ehmi owluh ozieja ki davudo okida fada iduinnu wegka noenkew jonralgod numvun wukgu cigaliimi egiki ranfanvek fo."
+  },
+  "apiKey": "7d4b0b760a165ff221bdaccdc47d8e2d7079a700df2e776871ba825b51ced0e8",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
