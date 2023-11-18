@@ -1,0 +1,26 @@
+{
+  "name": "May Jones",
+  "age": 24,
+  "address": {
+    "street": "Valu Street",
+    "city": "Obahoto",
+    "state": "WV",
+    "zip": "75885"
+  },
+  "contact": {
+    "phone": "(360) 715-9195",
+    "servicePhone": "800364238"
+  },
+  "birthday": "1975-12-07T13:02:22.604Z",
+  "ip": "79.5.87.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Sop rowim taziva bi wo nodcotemi mupdela faw viajisep bakfi veet fa. Wapuaf ud re gokte iv elererum izi haol imatout nu gav fa borepebe vitrobiv. Olvifbi akunecri guce gib putmo nuwvip ju kaohu lomere mat let egeal ta uzu baatnu eriwebse luliczo caga.",
+    "bio": "Timguv del weli catevizep wa iji wumjad hirbamfol hevwaj epu zuloci tal wonawi. Eragic re eka gupup emo gus awaupewu sam webohro bov palcioke bo tuzid zivib. Vor fe wimofuj pefe kicig ibmo re zeho agdap papva behi um hevcesiw ivlikmi nici jelem. Rujetu tarhijceb taj avvan bovwi cogisu jod abu nej fejug cawogehi jutkomwu uvhodi sajivko me vah juwno peh."
+  },
+  "apiKey": "2d4520700941338b7a2fcb3b83f6d3051856b812eadfa04fe0a4b207cc1846d4",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
