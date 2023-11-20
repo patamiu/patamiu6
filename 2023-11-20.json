@@ -1,0 +1,26 @@
+{
+  "name": "Millie Hicks",
+  "age": 41,
+  "address": {
+    "street": "Favzi Lane",
+    "city": "Zugicake",
+    "state": "MD",
+    "zip": "71823"
+  },
+  "contact": {
+    "phone": "(760) 330-6267",
+    "servicePhone": "800762855"
+  },
+  "birthday": "1989-07-16T02:13:45.192Z",
+  "ip": "225.5.173.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Varfo doisoazi mucul ne oldagim dodhudum jagufi zekfubow si imi cuc ke gi estednat wum vin. Lepzak regfuh di nenuib fu efmab midriswa cihto ideli reojwab ne duwlo rewuhkic. Etcoh jejwi jeabko muufufi licucu uguure palerdu iho rurdiwdez upzopdi puloli uwcufam.",
+    "bio": "Gajna vogarol zogeghi evodba turbasip ozesi haedle vuzfople medir gek borgol lusseb. Sitdozfum kucvorgol gug ho nucvako tipodejar lah cuv kumsucot gugabot rokon gan dukhuvli sainakis ricjufu wewurugov mocivcor mostecu. Icfem ekada mitojmi ic wu luf sussuzti saw zevbicoc zi alpak cus ruckuc."
+  },
+  "apiKey": "3805e8acbb3284b4d3847fa0d4544e917bfe47ce925a78449775b5b4e6c85371",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
