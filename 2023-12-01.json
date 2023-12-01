@@ -1,0 +1,26 @@
+{
+  "name": "Cora Tyler",
+  "age": 40,
+  "address": {
+    "street": "Cughu River",
+    "city": "Geropomi",
+    "state": "CA",
+    "zip": "87917"
+  },
+  "contact": {
+    "phone": "(501) 849-9418",
+    "servicePhone": "800528789"
+  },
+  "birthday": "2002-06-30T11:44:10.864Z",
+  "ip": "95.195.53.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Bejaj teus lav wifajjag ora tuw pi teidiob oremem ewzi naswunget da gi. Zipecavar imovab hadka azu muh ne mugel enfagdab enatecaz fi uwfihno iwsaife. Ij diuhez hok fo fen cekig wejow udezug basofac cemguman emi ep aldet ni.",
+    "bio": "Jinjahu mucuk anewiluc koczi jesogi hef bogzifer hihlaha ek rucoboz hodji tasal teb gudum meduj lucavi to giczowa. Jeseev ifeisocu divpop wabuka orulegton ducha fogdot wukwesoj mabjujmif palleviv zu nana fipej soj fuzodar hujtukti muguab. Map bavgera satuko herwabdu wek duj zisru senijja ahi ruz jovkumur ol hon gazilu suvi vis zedahu."
+  },
+  "apiKey": "2b837eaae00d6d2d052faf3d78bd9d91a5981b35cb788b2a47aa564f1d0e9561",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
