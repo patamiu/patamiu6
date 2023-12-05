@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Mills",
+  "age": 48,
+  "address": {
+    "street": "Kegi Mill",
+    "city": "Nojaka",
+    "state": "MS",
+    "zip": "63301"
+  },
+  "contact": {
+    "phone": "(814) 431-1189",
+    "servicePhone": "800855493"
+  },
+  "birthday": "1986-02-17T13:00:56.838Z",
+  "ip": "254.4.124.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuujufal tucencun sisar koebsoc nirbuz le cuwju jiwline kevjives gajultuh hewfiraf huwpuf nograw. Lig agar buzjit uhni vuwrusoha cu ujodavil juk lahlal epevawa mumkaak fi odievo oge cor parhutfa rudi. Ja dibcuwnu raiz zif jotefisop movuba so sikekud mef iwteden gi ichifo dijwap.",
+    "bio": "Moflipif tuze ir teiccov rac igtubka cuzer ema med lof woewuki fadi. Idbob ro vadjofo ja fe cozapodu tat sepadboj cew babi ezjuwura kewip su. Le ciluvo sab luboka le zapkeane pelzaphi abza lanefaguh haf ra sumib baffingoz vinpozoh germa. Curezaza jutejgoh le ro eseera kab ugerabpa bi nowohac eg natzo ra dus purpidit. Taspod hun acifu dimo mougu echo usosow fu opvutkev hah nic akiweso fokihek rulanhuk ufuezidi. Cuf di viendij livrehu wa famipibo ucisatpo robunno viaw az elazo zew pibadu. Nip mi wil cagiko dosnu tegobife beinuke rabvi wuce satimku gis def apmeba az."
+  },
+  "apiKey": "3f5f7a7c5f260d4c3e2aceee3603877fe6c924abf4db57a9384db5002d795e05",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
