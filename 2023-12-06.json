@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Drake",
+  "age": 22,
+  "address": {
+    "street": "Vagrom Highway",
+    "city": "Omkifi",
+    "state": "UT",
+    "zip": "63801"
+  },
+  "contact": {
+    "phone": "(968) 443-5579",
+    "servicePhone": "800299315"
+  },
+  "birthday": "1979-12-22T04:22:02.231Z",
+  "ip": "86.154.78.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Dowze remub sabe peagioba zig bebisav onsu hicanu pa zavercab licaupe bazu kaduvuwo ef vabe zogehri umlahwiv hic. Vijo bouz kaebtir so vefa nu kaduw lobehe ja ki duzgi et ewitru. Za jodit fuwot mag rab nagguni vojvo epaozu za pok vacbattid gosied wi fu dezunfe fatok.",
+    "bio": "Vilu fasajja fe fuplok ser cef bere deuw ac lewnaw akikupdic eha udihaiku cejtevfu. Ge jovfabuk ufo kellocan vo tud jeccuk hehlag lewsah zinnij odi toz hiowo pelkitfad kuk lozeg otipope. Ot tusheji rujem palfa veiw urfec vuuprim bapul torzevoj wi alfev ter okalaz valnab cewruni uk ni imobe. Gora zev taimofel hojusi orusu ogosuv awjo ukor rotcutni nowoc homev lo guebcib um. Re gubtu muh loh emeece ze vediva ivgaho vagiso iro diizuapi ruwsunre lon sun owa pirirkug milhufcon garpuwic. Ujeaz pewde besfawsu hibzokev rebar edfuuk vuig tehol iwa ejaicuc fohumo lakugup kiho."
+  },
+  "apiKey": "28d8f71d6e201468b06d85af7ae6e249abfb4a16c1bb20310784a65d2fe13a80",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
