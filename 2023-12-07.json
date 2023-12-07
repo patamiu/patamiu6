@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Vega",
+  "age": 42,
+  "address": {
+    "street": "Nuno Pike",
+    "city": "Osazecem",
+    "state": "AK",
+    "zip": "21267"
+  },
+  "contact": {
+    "phone": "(604) 292-7431",
+    "servicePhone": "800845212"
+  },
+  "birthday": "1986-12-30T15:24:44.909Z",
+  "ip": "155.59.142.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Zajmovtu hu hakuh tek cob hokepa carfatav kejfoz nidub girajo sak esmipo osakokhu fefi mi junwanzih tarjijodu if. Cit castipdo humho to recliwi pelvovuf une logehiva ki ikidu buwo zo tauvi hoddec. Jurveg kuh ko agakti pipcolize cul eduhi oreos po ogulubic geijisov siuvgi de gapi. Bohcezziv anu ifojom ne uf hohhupe duksa roibira fewgo are josoh nebpuz udzomu erpera zew efkuw junup oglu. Hibil bod gep zi usimekin legzooso mupo rejtelor ap nizizzag zuzespi ded ej peapo wiv canodo.",
+    "bio": "Op midut erimi fitakpo tebnul zezsuruj dovsesfus ja ko mo kazdov or secur idagicdi. Asa beula wecipom vedijge rolabsi bafib suujhub fic ascoc vuluhco afa caavocod ore tifmoneb dawegco cove vimhi. Usmo wogsu fiwpaje fiwibhuj fohu akuatisu caf hez res mejuz liw fik un ki. Gohmivli ko upakepja roj ivudemag jideg uno as pun anokuwkez lu da cut cuzteowa."
+  },
+  "apiKey": "a9a47f1338bcf596cb7961869e6bb7e46df2924b2a9735f34e9acde2cb3dc9e5",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
