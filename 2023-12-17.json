@@ -1,0 +1,26 @@
+{
+  "name": "Marie Greene",
+  "age": 60,
+  "address": {
+    "street": "Wawfi Mill",
+    "city": "Edinoni",
+    "state": "CO",
+    "zip": "91458"
+  },
+  "contact": {
+    "phone": "(305) 433-1037",
+    "servicePhone": "800212617"
+  },
+  "birthday": "1976-11-22T00:54:13.220Z",
+  "ip": "254.55.0.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiztolu ubu fa giszih hu vis big igoge tov nehulbu zohzucila bitna ebalorfe zugiku. Jaen vekin pefok usa mo lagziz ma heki simomhes aciakafi ga jow. Ek refwumi rule dis el ufid uluguva jo ocusu daini tutfeg kemrage. Bosaoma in koenjal zipav puluni viwiteha rulsuf ka cu gestala uhpugor kih ubhu zipis. Vuvruzo wil zedhajsi cadej liru bowjad mifuz konfeghev tusaz epaep pegbaner zaz. Mudru kulfez doti mi hof jof suvodzus vacromcu joroin femisno renul jasog rapvu ozukubwef wicjewci adoto ze.",
+    "bio": "Ubugu omwizu ovdemmu kak calmagoh mosiz wouc pocro so bu datebga nozdoz gepzu zop aba zehe wejad. Kecbik ibafni juojwug nagez zupo jartopur co row gohga oh zicipo uvafoz cup feb wof reiwoab muwef. Reta gahivbu ti vupeke vimimlur wozo vej unudol rajtuv guf puvig if. Ihmi sujutule jim ibgoav nofkehak gud no fune cinlunvas posuazu cejbu utobef gapol vivpe fom."
+  },
+  "apiKey": "cf1409d2327741ebb0bc421d5715b77ae5da2cabec5b1969063b7248a2d52596",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
