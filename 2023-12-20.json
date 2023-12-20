@@ -1,0 +1,26 @@
+{
+  "name": "Christine Moran",
+  "age": 65,
+  "address": {
+    "street": "Hihod Highway",
+    "city": "Sanetbec",
+    "state": "NY",
+    "zip": "14088"
+  },
+  "contact": {
+    "phone": "(847) 479-4628",
+    "servicePhone": "800811115"
+  },
+  "birthday": "1986-01-02T04:37:02.381Z",
+  "ip": "216.75.228.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Vited kusfoga bos osodo weswin pobog ko ad kic hompa he piizueni lubla oljob mefra magvise aheloabi. Piglaz nak tufcava dobid ogudij nemliv ju la gew ke dedos funrijub. Cennol zicci avfu vimki uznow rekiga cirab hic ne ciusa koutawi ke hus ijgeid. Iwele di dakgen mim fiitibih vol kanofzom jubezin taijomip ri navor ruwtaj wosfin kejzahgik coku ade genrugboz.",
+    "bio": "Huv iwtesca udjukoci azesicu gehuh ij kivupga ag ripji ezo rahgoltu bevigam gummocgad gukmuvug lavtu cokufozu rohpekir. Umeri numro jop gu nueruto ow domasrup mi visa daz wo iniez. Olugigijo tigzav mohsamuz re cijvej ov vivufpu pagom leuz tu ocoun rofugeubi nuaniron."
+  },
+  "apiKey": "71da330cc5a5717bd1106a4a7a69e2af82295e004cd6a2a2f581f8ca37586eb5",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
