@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Schultz",
+  "age": 25,
+  "address": {
+    "street": "Jubot Terrace",
+    "city": "Polehoavu",
+    "state": "KY",
+    "zip": "26175"
+  },
+  "contact": {
+    "phone": "(206) 435-6898",
+    "servicePhone": "800985338"
+  },
+  "birthday": "1998-02-08T01:43:31.853Z",
+  "ip": "119.115.0.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta ke rul cob ehmegida wakkuh ripej zas ome vofu wes vu. Opnewer eceniv si ugafomvah fe laj hij kecjelges jacic podwifet jolerjuk iboguv am saivicoz cogiaju pumu nekovpoz. Ariwerah kumwe kil jetvahro edaho tesos ugtoj ilu muol susocu lebu magdapah.",
+    "bio": "Hiforag hu we ipboh eke tidon dopcabwi vatzud semmedge ga aro ogorok do godfackow iwifa wocazofec. De racaeg evpuce tagih ig mu gol vupsep bereniwo evalekna zah elutes. Nil gij kovum azesamov neksic cis iwbewur cug taf et po momudo ugsi pa vah luvak tew."
+  },
+  "apiKey": "aea70e521ab36b6fb068bbc2b7dd9b3bb81dd3856e5c2a51dec11ca96e4fd9dd",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
