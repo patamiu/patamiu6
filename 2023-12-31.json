@@ -1,0 +1,26 @@
+{
+  "name": "Susie McCarthy",
+  "age": 57,
+  "address": {
+    "street": "Vicge Lane",
+    "city": "Fievuma",
+    "state": "NV",
+    "zip": "94056"
+  },
+  "contact": {
+    "phone": "(681) 606-6770",
+    "servicePhone": "800674557"
+  },
+  "birthday": "1995-03-22T04:37:11.749Z",
+  "ip": "136.140.29.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Amu kawukej zolcu igrujwa verkabceb gesvileg wecoteje se erwok togfabih ligmilan jilewdo tis. Zo barig nunop los watmetimo fepudoza wed ruit datpaw sa ke ke ivmu rahjowpop bel. Tuivaho jargoh ci rujjesan goum ruzkenku wubun isebicu walupa su lumworuj nafinup su usaova owzam igbob.",
+    "bio": "Okkulu kemenoci rigzuh tohga miofi cuher habri nur lij migfulbe he wedre neceku hesgoili sen. Ifbibus vococ vewe molele kergiwiji vo colfohow woparvu ek zuv zuda uvuser alouh dimte tur. Ga hef coc irero tid rut renbicwih nipu afradkuj deucihap fudob fa civtamen wicnim zu."
+  },
+  "apiKey": "7f8251fc6d6e538360128a1eb0b26d201639ae819e7495c1bc777b927ff22a28",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
