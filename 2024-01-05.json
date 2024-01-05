@@ -1,0 +1,26 @@
+{
+  "name": "John Morgan",
+  "age": 26,
+  "address": {
+    "street": "Afuvo Square",
+    "city": "Wavofi",
+    "state": "PA",
+    "zip": "65706"
+  },
+  "contact": {
+    "phone": "(886) 836-4460",
+    "servicePhone": "800826361"
+  },
+  "birthday": "1963-06-13T14:15:52.902Z",
+  "ip": "131.213.82.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Daci sodledlus juovu tib vospoc lases haresit lavaze neg fif zij kazmaula hubtod asgickip juujiufu. Sahuje huvbeh fokdi hotuwil difet ezbi se hen kohwoij detebamac itueggaf vezazsa naif. Urehula jabgog jol pe owsoshag rehzo jug punewaz lukughe wirranagu vepbob vof eswas ommi ebjim ti fogjirec. Wi olrerat pulem ema neho timum sealtev wik puvbi bore naob bonzowum ogre dupvus mebwi mo.",
+    "bio": "Ki robdor vacpem norbaso ewokome pocikpen atocuf firpe ji puitfih hopluf molon hi kip cosuk poso mecoffi. Pefabfej op nodli roz ovnug ono jijjose zuha nicda bitse kim ba mif bonzed erabiceg mo sorufjaf ez. Ge opkeh no handu ugual rar he ci jidobcaf wez ci oha."
+  },
+  "apiKey": "fe6f6d484e060cb2f5128a7bed5adacba8068b77404785dd545e5a1219f1af02",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
