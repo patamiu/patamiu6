@@ -1,0 +1,26 @@
+{
+  "name": "John Douglas",
+  "age": 31,
+  "address": {
+    "street": "Hascuw Path",
+    "city": "Karhercal",
+    "state": "NH",
+    "zip": "07174"
+  },
+  "contact": {
+    "phone": "(817) 824-7674",
+    "servicePhone": "800547153"
+  },
+  "birthday": "1984-01-27T19:38:29.036Z",
+  "ip": "76.213.70.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Do gip hanofu vapmozjo kuneg waiso foormug hogde vocoh ijpur susvekef nam aj teno umdadmuv keko vewot. Kednus lu eh lardaw ohi ij jajuco aclekjip wirroc uctu povdigbe fej gogjufbi nega zom ewakizez. Ocoobocap vuconfig rupopla ku gune gorof hihawu ju bawjekhug getmajvit ucinopiw so bi wadfut mem vo iw.",
+    "bio": "Hivha mo valgegik bifin ufe ubbi gupro pitokek patub mivec enivusego awicu ru ejidun vifamow divsidopo. Oranov gavohpu daneca mamhef heni et mej ofbek fekze rub nitorwik tomwivo ekebohif todjarob. Odit wuz la fogjem cuw guful ho jatzispat noca emrec zo idifob oselandaz zegavit. Poftompom ve nan ma sozuw letusap diw de hapzovvu wutizun hi mo dupnatpu adi hevozgad garsene oh icpew. Nejvem fakjore wibjubel anomi murvifce minseij uzo havhob upcim dofeb wac tagabbo giwi. Wo up vebak uta giimdej do lorep gopiv hazowbe nikhazi sotafu pih kewis pifuzhel kef."
+  },
+  "apiKey": "5f3513d82f7feac1929186b249a03954ef968090715efb3ccc112e6b392c38cd",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
