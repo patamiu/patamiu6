@@ -1,0 +1,26 @@
+{
+  "name": "Hester Ferguson",
+  "age": 49,
+  "address": {
+    "street": "Noksif Park",
+    "city": "Benugow",
+    "state": "IL",
+    "zip": "14871"
+  },
+  "contact": {
+    "phone": "(642) 225-5510",
+    "servicePhone": "800332635"
+  },
+  "birthday": "1974-05-14T21:17:11.334Z",
+  "ip": "74.204.180.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Anbi ip sutiah jekeb ro mupim lesev jahlopgo koc uljed hosnesez ci remsurum. Kiseku tomnuv rupof huja ewbudoh puud wu jirav co acoflu maz vopev egja. Kaarulaf noznab sa igo nec davro nobup dalov jucrod meajomot lihnagdir bo. Gersawo uwo faz umewahti teg efigki ub lipejafuj neju fog nutsuve puhacun satohdo gemkegu secardiz eznin.",
+    "bio": "Hek sovwa opucaw ef ri ozo fumhov lapug uzicadsed hi het papfaunu gadatuav. Dip higihe bib per jeitamu orcu diema badzez jup jalfir nunogo vusi sosdo utwuec cize jokaca gobhu. Keco kogriklij guj ka go ju oz kelupu ucora nuw nuijukih azameno werkunfek."
+  },
+  "apiKey": "811a42bfbd1f0b7945bd48c2150d87826520dccc47c9f214dd2d2a5cceaf6387",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
