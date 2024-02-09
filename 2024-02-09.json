@@ -1,0 +1,26 @@
+{
+  "name": "Luke Leonard",
+  "age": 43,
+  "address": {
+    "street": "Raok View",
+    "city": "Hupuwom",
+    "state": "VT",
+    "zip": "59357"
+  },
+  "contact": {
+    "phone": "(806) 470-8606",
+    "servicePhone": "800721488"
+  },
+  "birthday": "1989-08-02T22:06:44.998Z",
+  "ip": "82.64.215.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Iru kaheppa wofle lakep ezah cep tuwuflo kerlapdi fezlalizu roav cemu afodavid. Pirluzag wu ejkebkin bonag lemad gihalvab jivlidop awfuc ifo wo mon jankaz gi picju duh noghaz. Tinso ami wiozcu de ah kuwrika lagaf detwa mad fidgih kouwlib ajaanbu mofbojo uddo uviimolon to ra.",
+    "bio": "Hehtasdah pazashin ifohu kabiwpo ipijaaz muom oggocnir ehilbu natnas obmi kucnarlo locwajaju ba ji bo. Afo vafi dotufizo rolgoz aw vujisok nuckos ugvuk savbofu acub oznukzu zonovsag esmo emizud keufhes. Dube jirza vizos sicu vedowu ohpem rolvuzhop velafji zoemi it bubesjuv usaacjiv."
+  },
+  "apiKey": "6d5f9578f77006f5be02fe5c454f4303648e0c831d776fca929b9158f327a44e",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
