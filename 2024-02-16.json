@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Young",
+  "age": 19,
+  "address": {
+    "street": "Bezri Turnpike",
+    "city": "Ahcozal",
+    "state": "MT",
+    "zip": "07458"
+  },
+  "contact": {
+    "phone": "(850) 330-6825",
+    "servicePhone": "800461345"
+  },
+  "birthday": "1999-05-06T16:41:18.756Z",
+  "ip": "51.201.59.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Ti tiutfa dina ze iluti agdujo buveinu fe jo pives tas puwav wa azogis. An jepba uwwo ejetvu ejumol giwvebze mitruz kaun maf sizazhuv likus digcubno jawu badavge siv fizijiwo. Jidoz behok cuk ojekaja ipetid lew lu jojsapi durva ogkag kifsihkug dob bihihi. Siw riwu joj besebovu ot nipjilrob kaz ki omubi lepim ewtoda larmihod eziila eki vefewba. Uzumoja kosewzev natboto hefo nu du to ew wujiehi lej naf wih bonu dac romipa beki.",
+    "bio": "Ti jiso usobullul newto lizkose reji nez icu rep guwesi someec lalver. Rijiwmap tiniuvo udoeka giruk giru ju okzus ta roljosdaw ga buvpigi rekfi ko vapulaz egufah nikeulo iceuto. Ahaagva wapgej lil disiv edabuge kodu jab tosmev gicri na fekelju migel zokemo ot pagjopu."
+  },
+  "apiKey": "0620572f8b3d38274a44599068881426c0f904b040a87a184110ba35fe0faa91",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
