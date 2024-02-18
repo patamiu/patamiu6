@@ -1,0 +1,26 @@
+{
+  "name": "Sara Mitchell",
+  "age": 35,
+  "address": {
+    "street": "Suud Center",
+    "city": "Fekicsa",
+    "state": "ME",
+    "zip": "40229"
+  },
+  "contact": {
+    "phone": "(964) 957-7863",
+    "servicePhone": "800322138"
+  },
+  "birthday": "1984-03-21T15:00:42.084Z",
+  "ip": "35.37.43.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Hitzu beb soroc emfusuw seetika hukim re wepsebgi fo ter tas go keifi wi idfof jaohehem lupusog ac. Irlico omkoz poklu jo vejabeme aborop te mezurgom rieg lu ajfakbon huciliju rawowva onhusog puggat. Jo rapuvu ab gewkaw ujivun uweme dahi butesaev iw laji pepguizu ubuj uhbetge updo.",
+    "bio": "Su pegdu womi sehhej nokizjeg sopazon gogkotip tovowiz ov huuda licsu uga pusnebe habgi vupuk ejodoper. Nelenobup rotzotso pu me esite peci ziv ehro fu niopina lu apaen goc sif mopnaj gij venloc. Hone bowda lacu ji lij hif fu wuuzsa gu bavalbul ivejegas mazagbo ka. Iji ihi tehwil pailofoc kuloed tod liho sepah copka tiftuzev kuku ebho vijfodge emcon hev ahozo."
+  },
+  "apiKey": "f70a06b10f142a6854ece9eeede624ea0a58ea4d600000f7e1af56f6103d6b4f",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
