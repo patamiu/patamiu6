@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Ryan",
+  "age": 32,
+  "address": {
+    "street": "Gepak Grove",
+    "city": "Kaupsuv",
+    "state": "NH",
+    "zip": "45571"
+  },
+  "contact": {
+    "phone": "(850) 549-9867",
+    "servicePhone": "800223147"
+  },
+  "birthday": "1965-06-24T09:56:14.405Z",
+  "ip": "120.137.191.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Huttuluku jejek ut gidomva basij areso zij dulzu jiko sebkinuf dapigta lira. Tug huhez sonabi dozu aniwe pur nam je anberdul vavim afehizo fohsam ehu bis to. Fifulavo heokacu josfur ricena be ta siez otza ute raha ne pago he zuliku ikureso vub zav.",
+    "bio": "Agouk topkieta etovisvoz takorke pepog dutoj rubav ewazig tubedav elowiv zifaco ved lareri gaj wep onumucpi. Milrodac dar vatworuz zoh zaalhi jus gas mij so pemad vuf eneeza cosodec ev ririppod. Bibok wipkuzoj du ucake omhovi uchav wirajlup mepcukma jelhepu giemu juzhu bifmi peazofis junu nozlogce zu."
+  },
+  "apiKey": "4376db96408bda6d10ac2488dbbf4cdf4f4091d45fa0025b69de3604ce293605",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
