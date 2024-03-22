@@ -1,0 +1,26 @@
+{
+  "name": "Joe Brown",
+  "age": 65,
+  "address": {
+    "street": "Vebin Highway",
+    "city": "Olpaezi",
+    "state": "MI",
+    "zip": "03083"
+  },
+  "contact": {
+    "phone": "(443) 399-2376",
+    "servicePhone": "800826668"
+  },
+  "birthday": "2001-05-24T00:14:15.691Z",
+  "ip": "51.1.128.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Vavu fuv do ehezuw emgudkul edirera ahudito wiep wartuhe bune bug rojfifal aluzo itlaj ga. Cuma cace seturfes duh akwe fu elegu udani atagi kowa zekfot sovu vaposmi mebacze zatjipon wiufuale nanatbub cib. Fopmaza zu eg fev taku dizpol nes cohojdof kup cotnetvan jonweb ow alda.",
+    "bio": "Weverzoj rep hofac zunehi uwomeju ubunlit wuzawrem uki jeseeb romce wiibli vo. Gumgu habludki min fevul kinreima idudu ijoci se lab su umagih akci ituhim zezgo ficedtez fi cuzmem. Wiz jiajsa esci cumjetmi ujta bin huddulji lizajzi wegovaho cemipivup dudzicla jugdileg jani lewitakem mi zowkes weslo. Mankuko zo wunbikguk akiwa am bugemfa vodfumvij po jeha vepo ban cop sew muvsestez. Ju jeaji wesopda jeofwa ladkecis he pinzente pa ejvu og ateofpoh zuviklo usje sejige uvpinut fiddolcal ampoce. Fun duronu hu debofule pad hun motom zimviiru tutzivev sawito ispe zosec opta."
+  },
+  "apiKey": "1a07fc7d13dfca3b3f5c650e5b4b1eef2b6479a0707b4e81e1a380afc8323a64",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
